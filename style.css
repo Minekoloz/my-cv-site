@@ -99,6 +99,10 @@ body #secret {
     margin: 5px;
     padding: 5px 10px;
   }
+  body main img {
+    width: 80%;
+    height: auto;
+  }
   body #secret {
     top: 20%;
     left: 10%;
