@@ -79,10 +79,9 @@ body #secret {
 @media (max-width: 900px) {
   body {
     padding: 20px;
-    height: 100vh;
   }
   body main {
-    margin: 10vh auto;
+    margin: 35vh auto;
     width: 80vw;
     padding: 10px;
   }
