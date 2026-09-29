@@ -80,7 +80,7 @@ body{
     body{
         padding: 20px;
         main{
-            margin: 30vh auto;
+            margin: auto;
             width: 80vw;
             padding: 10px;
             section{
@@ -90,6 +90,7 @@ body{
                 padding: 5px;
             }
             h1,h2{
+                font-size: 1.5em;
                 margin: 5px;
             }
             button{
@@ -97,6 +98,7 @@ body{
                 padding: 5px 10px;
             }
             img{
+                margin-top: 20px;
                 width: 80%;
                 height: auto;
             }

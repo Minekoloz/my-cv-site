@@ -81,7 +81,7 @@ body #secret {
     padding: 20px;
   }
   body main {
-    margin: 30vh auto;
+    margin: auto;
     width: 80vw;
     padding: 10px;
   }
@@ -92,6 +92,7 @@ body #secret {
     padding: 5px;
   }
   body main h1, body main h2 {
+    font-size: 1.5em;
     margin: 5px;
   }
   body main button {
@@ -99,6 +100,7 @@ body #secret {
     padding: 5px 10px;
   }
   body main img {
+    margin-top: 20px;
     width: 80%;
     height: auto;
   }
