@@ -74,4 +74,35 @@ body #secret {
   width: 20vw;
   height: 40vh;
   cursor: pointer;
+}
+
+@media (max-width: 900px) {
+  body {
+    padding: 20px;
+    height: 120vh;
+  }
+  body main {
+    margin: 60vh auto;
+    width: 80vw;
+    padding: 10px;
+  }
+  body main section {
+    margin: 10px;
+  }
+  body main p {
+    padding: 5px;
+  }
+  body main h1, body main h2 {
+    margin: 5px;
+  }
+  body main button {
+    margin: 5px;
+    padding: 5px 10px;
+  }
+  body #secret {
+    top: 20%;
+    left: 10%;
+    width: 70vw;
+    height: 40vh;
+  }
 }/*# sourceMappingURL=style.css.map */
