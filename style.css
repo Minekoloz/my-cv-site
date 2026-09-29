@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  padding: 60px;
+  background-image: url("images/background.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  text-align: center;
+}
+body main {
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 25vw;
+  padding: 20px 20px 20px 20px;
+  transition: 0.2s ease;
+}
+body main hr {
+  width: 80%;
+}
+body main section {
+  margin: 15px;
+  color: white;
+}
+body main p {
+  text-align: justify;
+  margin: 0;
+  padding: 10px;
+}
+body main h1, body main h2 {
+  margin: 10px;
+  text-align: center;
+}
+body main ul {
+  margin: 0;
+  padding: 0;
+}
+body main ul li {
+  list-style: none;
+  font-style: italic;
+}
+body main a {
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  transition: 0.2s ease;
+}
+body main a:hover {
+  color: #ff5bcb;
+}
+body main img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+body main button {
+  background-color: #ff5bcb;
+  color: white;
+  border: none;
+  margin: 10px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+body main button:hover {
+  color: #ff5bcb;
+  background-color: white;
+}
+body #secret {
+  position: absolute;
+  top: 20%;
+  left: 40%;
+  width: 20vw;
+  height: 40vh;
+  cursor: pointer;
+}/*# sourceMappingURL=style.css.map */
